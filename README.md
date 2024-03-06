@@ -7,4 +7,5 @@ This repository contains resource collection for the QGIS Resource Sharing platf
 Add this link to your repo list: https://github.com/ludovico85/QGIS-resources-sharing.git
 
 List of resources:
-- [Home range analysis through Kernel Density Estimation](https://github.com/ludovico85/Home-range-analysis-through-Kernel-Density-Estimation-in-QGIS)
+- Models
+	- [Home range analysis through Kernel Density Estimation](https://github.com/ludovico85/Home-range-analysis-through-Kernel-Density-Estimation-in-QGIS)
