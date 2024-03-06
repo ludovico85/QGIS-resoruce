@@ -9,4 +9,4 @@ Add this link to your repo list: https://github.com/ludovico85/QGIS-resources-sh
 List of resources:
 - Models
 	- [Home range analysis through Kernel Density Estimation](https://github.com/ludovico85/Home-range-analysis-through-Kernel-Density-Estimation-in-QGIS)
-	- [Home range analysis through KMinimum Convex Polygon](https://github.com/ludovico85/Home-range-analysis-Minimum-Convex-Polygon-MCP-QGIS)
+	- [Home range analysis through Minimum Convex Polygon](https://github.com/ludovico85/Home-range-analysis-Minimum-Convex-Polygon-MCP-QGIS)
